@@ -33,3 +33,11 @@
   background-image: url(image/cocktail.jpg);
   background-repeat: repeat-x;
 }
+
+.cd{
+  font-style: italic;
+}
+
+.artist{
+  font-weight: bold;
+}
