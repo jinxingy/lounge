@@ -32,6 +32,7 @@
   
   background-image: url(image/cocktail.jpg);
   background-repeat: repeat-x;
+  float: right
 }
 
 .cd{
